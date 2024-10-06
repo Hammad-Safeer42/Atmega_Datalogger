@@ -31,6 +31,4 @@ This repository includes the following:
 - **Schematic and PCB Design Files**: Complete design of the board.
 - **Fabrication Files**: Ready for manufacturing and testing.
 
-## License
 
-This project is open-source, feel free to modify and enhance it for your needs.
