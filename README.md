@@ -1,4 +1,4 @@
-# Atmega_Datalogger ( FERN-Duino)
+# ATmega_Datalogger ( FERN-Duino)
 
 **FERN-Duino** is a versatile datalogging and communication board designed for various data acquisition and control applications. Based on the ATmega2560 microcontroller, it features an embedded SD card for datalogging and supports multiple communication protocols.
 
